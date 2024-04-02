@@ -1,1 +1,3 @@
 # ScaryFree
+
+**Command /scary ID**
